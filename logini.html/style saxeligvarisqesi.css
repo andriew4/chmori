@@ -1,0 +1,20 @@
+p { 
+    color: blueviolet;
+}
+
+.names {
+    font-weight: 500;
+}
+
+[draggable="true"]{
+    font-size: large;
+}
+
+*{
+    text-align: center;
+
+}
+
+#gela {
+    size: 20px;;
+}
